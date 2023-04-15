@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af24fffe.css",
+    "main.js": "/static/js/main.fcaf5025.js",
+    "static/js/498.2d26ab06.chunk.js": "/static/js/498.2d26ab06.chunk.js",
+    "static/js/703.dc7027f2.chunk.js": "/static/js/703.dc7027f2.chunk.js",
+    "static/js/513.6bebe2ca.chunk.js": "/static/js/513.6bebe2ca.chunk.js",
+    "static/media/home3.jpg": "/static/media/home3.dc3acfcb0b13df322a67.jpg",
+    "static/media/curved14.jpg": "/static/media/curved14.12c9ea54425c4f1bc1d7.jpg",
+    "static/media/QITLogo.png": "/static/media/QITLogo.4b64ffb2cf74cd72c433.png",
+    "static/media/curved-6.jpg": "/static/media/curved-6.71ee1d1cc8196ed2126b.jpg",
+    "static/media/FixedBG.png": "/static/media/FixedBG.59ba71dc536bb4fcc1c9.png",
+    "static/media/help.png": "/static/media/help.e355805590047df8fc27.png",
+    "static/media/user1.png": "/static/media/user1.788710b7d8ff90f1302c.png",
+    "static/media/WeaveLogoTab.png": "/static/media/WeaveLogoTab.71c28cf33e2083ff6799.png",
+    "static/media/dxicons.woff": "/static/media/dxicons.c568ff14b17313b699e2.woff",
+    "static/media/dxicons.ttf": "/static/media/dxicons.506efc48bb7054c11c4d.ttf",
+    "static/media/dxicons.woff2": "/static/media/dxicons.dc1bbe3fe80897e2c012.woff2",
+    "index.html": "/index.html",
+    "main.af24fffe.css.map": "/static/css/main.af24fffe.css.map",
+    "main.fcaf5025.js.map": "/static/js/main.fcaf5025.js.map",
+    "498.2d26ab06.chunk.js.map": "/static/js/498.2d26ab06.chunk.js.map",
+    "703.dc7027f2.chunk.js.map": "/static/js/703.dc7027f2.chunk.js.map",
+    "513.6bebe2ca.chunk.js.map": "/static/js/513.6bebe2ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af24fffe.css",
+    "static/js/main.fcaf5025.js"
+  ]
+}
